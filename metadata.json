@@ -1,0 +1,5 @@
+{
+  "name": "KidQuiz Battle",
+  "description": "A colorful, split-screen interactive quiz game for team-based learning. Features sound effects, animated timers, and a celebratory victory screen.",
+  "requestFramePermissions": []
+}
